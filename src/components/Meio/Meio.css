@@ -1,0 +1,70 @@
+.divisa {
+    height: 10vh;
+    background-color: #f9f8fe;
+  }
+  .caixa_5 {
+    background-color: #ffffff;
+    padding-top: 5%;
+    padding-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5%;
+  }
+  .lado_a {
+    margin-left: -7vh;
+    margin-right: 10vh;
+    background: linear-gradient(
+      180deg,
+      rgba(66, 0, 255, 0.25) -40.67%,
+      rgba(255, 255, 255, 0) 100%
+    );
+    width: 30%;
+    height: 45vh;
+    border-radius: 120%;
+  }
+  .img_la {
+    width: 70vh;
+    height: 45vh;
+    margin-left: -11vh;
+  }
+  .lado_b {
+    width: 75vh;
+    margin-left: 4%;
+  }
+  .paragrafo_lb {
+    font-family: sans-serif;
+    font-size: 2.5vh;
+    font-weight: 600;
+    color: #c92071;
+  }
+  .titulo_lb {
+    font-family: sans-serif;
+    font-size: 7vh;
+    font-weight: 800;
+    color: #1f1f1f;
+    line-height: 8vh;
+    padding-top: 3%;
+  }
+  .paragrafo_lb2 {
+    font-family: sans-serif;
+    font-size: 2vh;
+    font-weight: 400;
+    color: #474747;
+    line-height: 24px;
+    margin-top: 3vh;
+  }
+  .botao_ladoB {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #ffffff;
+    width: 14vh;
+    height: 5vh;
+    background-color: #c92071;
+    border: 0;
+    border-radius: 8px;
+    margin-top: 2%;
+    cursor: pointer;
+  }
+  
