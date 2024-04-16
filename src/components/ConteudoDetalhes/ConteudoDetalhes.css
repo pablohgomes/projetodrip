@@ -2,7 +2,7 @@
     
     background-color: #f7f8fd;
     font-size: x-large;
-    height: 600px;
+    
 }
 
 .Categorias{
@@ -10,10 +10,11 @@
     margin-left: 100px;
 
 }
-.nikeimg{
+.Containerimg{
     background-color: rgb(234, 241, 250);
     height: 500px;
-    width: 600px;
+    width: 955px;
+   
     margin-left: 100px;
     display: flex;
     justify-content: center;
@@ -34,3 +35,61 @@ height: 200px;
  .seta02{
     height: 20px;
  }
+ .CoitainerFlex{
+    display: flex;
+    margin-top: 80px;
+    
+ }
+.DescriçãoDetalhe{
+    margin: 50px;
+    margin-top: 0;
+}
+
+.ContainerModelos{
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+    width: 570px;
+    justify-content: space-around;
+  
+
+
+}
+
+.boxAzul{
+    height: 80px;
+    width: 100px;
+    background-color: rgb(212, 243, 233);
+    justify-content: center;
+   
+}
+
+.boxLaranja{
+    height: 80px;
+    width: 100px;
+    background-color: rgb(248, 195, 125);
+
+    
+}
+
+.boxRosa{
+    height: 80px;
+    width: 100px;
+    background-color: rgb(255, 127, 255);
+
+}
+
+.boxMarron{
+    height: 80px;
+    width: 100px;
+    background-color: rgb(255, 157, 127);
+
+}
+
+.boxCinza{
+    height: 80px;
+    width: 100px;
+    background-color: rgb(170, 169, 169);
+    
+}
+
