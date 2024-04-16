@@ -15,7 +15,6 @@ function Home(){
         <Conteudo/>
         <Cardlist/> 
         <Meio/>
-
         <Footer/>
        
         </>

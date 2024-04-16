@@ -1,0 +1,36 @@
+.coteudoDetalhes{
+    
+    background-color: #f7f8fd;
+    font-size: x-large;
+    height: 600px;
+}
+
+.Categorias{
+    margin: 50px;
+    margin-left: 100px;
+
+}
+.nikeimg{
+    background-color: rgb(234, 241, 250);
+    height: 500px;
+    width: 600px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.nikeair01{
+height: 200px;
+
+
+}
+ .seta01{
+    height: 20px;
+
+ }
+ .seta02{
+    height: 20px;
+ }

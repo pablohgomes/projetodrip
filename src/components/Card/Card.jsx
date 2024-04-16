@@ -12,7 +12,7 @@ function Card(props){
 
         
         <div className="descrição">
-            <div><h2>{props.title}</h2></div>
+            <div className="desconto"><h2>{props.title}</h2></div>
             <img src= {mesmoTenis} alt="" /> 
         </div>
         <div>
