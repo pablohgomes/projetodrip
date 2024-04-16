@@ -1,5 +1,6 @@
 import React from "react"
 import Card from "../components/Card/Card"
+  
 
   function Cardlist() {
     
@@ -54,6 +55,7 @@ import Card from "../components/Card/Card"
             title:"product 8",
             description:" this is the",
             price:25.99
+      
         },
     ]
 return (

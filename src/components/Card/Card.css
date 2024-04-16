@@ -1,15 +1,22 @@
 .cardio{
 
-    background-color: blueviolet;
+    background-color: #f7f5ff;
+    
+   
+
     
 }
 h2{
-    color: aqua;
+    
+    width: 100px;
+    background-color: yellow;
+    font-size: 20px;
 }
  
 .descrição{
     
-    background-color: bisque;
-
+    background-color:#ffffff;
+    height: 300px;
+    width: 300px;
 
  }
