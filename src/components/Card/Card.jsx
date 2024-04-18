@@ -5,28 +5,31 @@ import mesmoTenis from "../Card/Assets/tennis_01.png"
 
 
 function Card(props){
+    
+
  
     return(
-        <>
-        <div className="cardio">
-
         
+        <>
+    
+            <div className="cardio">
         <div className="descrição">
             <div className="desconto"><h2>{props.title}</h2></div>
             <img src= {mesmoTenis} alt="" /> 
         </div>
-        <div>
+        <div className="imgCard">
             <p>{props.description}</p>
             <p>Price${props.price}</p>
             <img src={props.path} alt="" />
         </div>
             
-
         </div>
+      
 
-
+     
         </>
     )
+
 
 
 
